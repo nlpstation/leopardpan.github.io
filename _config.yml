@@ -1,28 +1,29 @@
 # Basic
-title: nlpstation111
+#title是网站显示的名称
+title: nlpstation
 subtitle: 交流站
 description: 自然语言处理
 # 头像里面的标题
-avatarTitle: nlplstation
+avatarTitle: nlpstation
 # 头像里面的描述
 avatarDesc: 自然语言处理
 url: "http://nlpstaion.github.io"
 
 # Comment
 comment:
-    disqus: nlpstation
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    disqus:leopard
+    #cloudTie: nlpstation
 
 # Social
 social:
     github: nlpstation
     # twitter: 
-    mail: 2393704129@qq.com
+    mail: 1171935994@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-#baidu:
-#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+baidu:
+    id: 0e65d865a62ceab8e1fcdabbbb1ea6f3  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
@@ -35,8 +36,6 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
@@ -65,7 +64,5 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
 
 theme: jekyll-theme-slate
